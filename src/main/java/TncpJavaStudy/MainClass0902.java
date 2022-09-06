@@ -13,6 +13,7 @@ public class MainClass0902 {
 //        System.out.println("강한친구 대한육군");
 
 //        1000, 1001, 10998, 1008, 10869 번
+        //10869번 사칙연산
 //        Scanner sc = new Scanner(System.in);
 //        int a = sc.nextInt();
 //        int b = sc.nextInt();
